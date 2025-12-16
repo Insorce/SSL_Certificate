@@ -1,0 +1,25 @@
+
+🔐 Service Availability & SSL Report
+================================================================================================================================
+| URL                                    | HTTP     | SSL      | Days Left  | Expiry       | Evidence/Error                 |
+================================================================================================================================
+| https://accenture.3-cubed.com/         | ✅ 200  | ✅ OK   | 311        | 2026-10-23   |                                |
+| https://apitest2.3-cubed.com/docs      | ✅ 200  | ✅ OK   | 87         | 2026-03-13   |                                |
+| https://semantics.3-cubed.com/docs     | ✅ 200  | ✅ OK   | 87         | 2026-03-13   |                                |
+| https://chatbotapi.3-cubed.com/docs    | ✅ 200  | ✅ OK   | 36         | 2026-01-21   |                                |
+| https://ingen.3-cubed.com/docs         | ✅ 200  | ✅ OK   | 85         | 2026-03-11   |                                |
+| https://solgen.3-cubed.com/docs        | ✅ 200  | ✅ OK   | 46         | 2026-01-31   |                                |
+| https://duagent.3-cubed.com/docs       | ✅ 200  | ✅ OK   | 52         | 2026-02-06   |                                |
+| https://duapi.3-cubed.com/docs         | ✅ 200  | ✅ OK   | 80         | 2026-03-06   |                                |
+| https://wizard.3-cubed.com/docs        | ✅ 200  | ✅ OK   | 36         | 2026-01-21   |                                |
+| https://insighter.3-cubed.com          | ✅ 200  | ✅ OK   | 85         | 2026-03-11   |                                |
+| https://infosys.3-cubed.com/           | ✅ 200  | ✅ OK   | 68         | 2026-02-22   |                                |
+| https://prod.3-cubed.com/              | ✅ 200  | ⚠️ OK   | 28         | 2026-01-13   |                                |
+| https://pwctraining.3-cubed.com/       | ✅ 200  | ❌ EXP  | -64        | 2025-10-13   | Expired 64 days ago            |
+| https://pbl.3-cubed.com/               | ✅ 200  | ✅ OK   | 40         | 2026-01-25   |                                |
+| https://sandbox.3-cubed.com/           | ✅ 200  | ✅ OK   | 48         | 2026-02-02   |                                |
+| https://sutherland.3-cubed.com/        | ✅ 200  | ✅ OK   | 36         | 2026-01-21   |                                |
+| https://pdf.3-cubed.com/docs           | ✅ 200  | ✅ OK   | 82         | 2026-03-08   |                                |
+| https://diagnostics.3-cubed.com/docs   | ✅ 200  | ✅ OK   | 52         | 2026-02-06   |                                |
+================================================================================================================================
+
