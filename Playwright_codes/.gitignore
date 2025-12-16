@@ -1,0 +1,9 @@
+node_modules/
+.vscode/
+.idea/
+.DS_Store
+/playwright-report/
+/test-results/
+/playwright/.local-browsers
+npm-debug.log
+yarn-error.log
